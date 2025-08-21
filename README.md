@@ -28,7 +28,7 @@
 
 ---
 
-## 🧰 Tech Stack (Clean, Reliable Icons)
+## 🧰 Tech Stack
 
 ### Core Frontend
 
