@@ -85,9 +85,19 @@
 ## 📊 GitHub Stats (Auto‑Updating)
 
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ShahrukhIshtiaq&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=7200" height="165"/>
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=ShahrukhIshtiaq&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=420" height="165"/>
+  <img
+    alt="Stats"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Shahrukh-Ishtiaq&show_icons=true&theme=radical&count_private=true&hide_border=true"
+  />
+  <img
+    alt="Streak"
+    height="165"
+    src="https://streak-stats.demolab.com?user=Shahrukh-Ishtiaq&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=420"
+  />
 </p>
+
+
 
 <!-- Optional: Top languages (can be noisy on small repos)
 <p align="center">
